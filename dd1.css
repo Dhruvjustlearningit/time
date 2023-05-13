@@ -1,0 +1,29 @@
+header{
+    font-size: 30px;
+    color: yellow;
+    padding: 15px;
+}
+body{
+    background-image: url('image2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+h2{
+    font-size: 20px;
+}
+span{
+    text-align: justify;
+    font-size: medium;
+    background-color: black;
+    color:red;
+
+}
+
+#language-select {
+    font-size: 16px;
+    padding: 8px;
+    border: none;
+    background-color: #f1f1f1;
+    border-radius: 5px;
+}
